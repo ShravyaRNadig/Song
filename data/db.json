@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Song": 6
+  },
+  "models": {
+    "Song": {
+      "1": "{\"title\":\"Blinding Lights\",\"artist\":\"The Weeknd\",\"album\":\"After Hours\",\"releaseDate\":\"2019-11-29T00:00:00.000Z\",\"id\":1}",
+      "2": "{\"title\":\"Shape of You\",\"artist\":\"Ed Sheeran\",\"album\":\"÷ (Divide)\",\"releaseDate\":\"2017-01-06T00:00:00.000Z\",\"id\":2}",
+      "3": "{\"title\":\"Levitating\",\"artist\":\"Dua Lipa\",\"album\":\"Future Nostalgia\",\"releaseDate\":\"2020-03-27T00:00:00.000Z\",\"id\":3}",
+      "4": "{\"title\":\"Watermelon Sugar\",\"artist\":\"Harry Styles\",\"album\":\"Fine Line\",\"releaseDate\":\"2019-11-16T00:00:00.000Z\",\"id\":4}",
+      "5": "{\"title\":\"Watermelon Sugar\",\"artist\":\"Harry Styles\",\"album\":\"Fine Line\",\"releaseDate\":\"2019-11-16T00:00:00.000Z\",\"id\":5}"
+    }
+  }
+}
